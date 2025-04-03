@@ -2,6 +2,9 @@
 This project aims to build a data warehouse using Azure Synapse Analytics leveraging Azure Data Lake Storage Gen 2 as the data source, orchestrated by Azure Data Factory.
 <p align="center">
   ![Data Architecture](images/Data-warehouse.png)
+
+  ![Data-warehouse](https://github.com/user-attachments/assets/6df9d0e1-48c6-4604-a112-3b54bebb6874)
+
 </p>
 
 ### OVERVIEW:
